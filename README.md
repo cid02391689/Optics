@@ -41,3 +41,17 @@ A lightweight 3D **geometric optics** ray tracer for **planar / spherical** opti
 - README.md
 - report
 - graph (result from tasks)
+
+## Quickstart (run locally)
+
+Clone the repo and create a virtual environment:
+
+```bash
+git clone https://github.com/cid02391689/Optics.git
+cd Optics
+
+python3 -m venv .venv
+source .venv/bin/activate
+python -m pip install -U pip
+pip install numpy matplotlib pytest
+

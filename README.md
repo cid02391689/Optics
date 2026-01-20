@@ -36,7 +36,8 @@ A lightweight 3D **geometric optics** ray tracer for **planar / spherical** opti
 
 ## Repository structure
 
-- raytracer/      # core library (rays, surfaces, optics, analysis)
-- tests/          # unit tests (pytest)
+- raytracer (core library: rays, surfaces, optics, analysis)
+- tests (pytest)
 - README.md
 - report
+- graph (result from tasks)
